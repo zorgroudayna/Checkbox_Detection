@@ -75,6 +75,30 @@ This training and inference approach allowed the model to achieve high precision
 
 3. ruamel.yaml – for YAML configuration files
 
+### Installation
+**1. Clone the repository**
+
+```txt
+git clone https://github.com/zorgroudayna/Checkbox_Detection.git
+```
+**2. Install required packages**
+
+```txt
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+pip install Pillow
+pip install ultralytics
+pip install torch
+pip install ruamel.yaml
+```
+**3. Dataset **
+
+- Source documents: Your private collection (~3,000 images)
+- Annotations: Manually labeled using LabelImg
+- Additional documents downloaded from Roboflow (~2,500 images + Labels)
+- croped more then (~19,000 images)
+- Total dataset shape( ~24,000 images + Labels) ! currently not publicly available !
 
 
 
