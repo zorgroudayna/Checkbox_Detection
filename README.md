@@ -20,6 +20,7 @@ Nevertheless, this introduces a new challenge: the trained model performs well o
 This final pipeline enables accurate checkbox detection on full documents while preserving the advantages of cropped-based training and remaining fully compatible with the YOLO architecture and annotation format.
 
 ---
+
 ![output_0_12_line7](https://github.com/user-attachments/assets/c5f58400-bb0a-49a3-bc68-eac9f0cbc1c8)
 ### Output
 ![output_annotated](https://github.com/user-attachments/assets/65aba2fc-6daf-4983-8728-045bfdd47962)
@@ -37,7 +38,8 @@ The YOLO11s model was trained for 120 epochs on our combined dataset of cropped 
 After training, we applied a full-page inference strategy: each document was dynamically cropped, predictions were made on each crop, and the results were merged back into the original document using an IoU-based merging method to remove duplicate detections.
 This training and inference approach allowed the model to achieve high precision and recall for checkbox detection on both cropped and full-page documents. 
 
-![output_49_2](https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278)
+<img src="https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278" width="400"/>
+
 ### Output
 ![annotated_1766484384_output_49_2](https://github.com/user-attachments/assets/4bdc1d62-c7a3-444a-8613-ab25623d1687)
 
