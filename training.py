@@ -5,7 +5,7 @@ if __name__ == "__main__":
     # Charger le modèle
 
     # Load model
-    model = YOLO(r'C:\Users\Rou\Desktop\Checkbox_Detection\yolo11m.pt')
+    model = YOLO('yolo11s.pt')
 
     # Train with optimized parameters
     model.train(
