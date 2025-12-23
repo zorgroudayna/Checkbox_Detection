@@ -98,7 +98,7 @@ pip install ruamel.yaml
 ```
 **3. Dataset**
 
-- Source documents: Your private collection (~3,000 images)
+- Source documents: Private collection (~3,000 images)
 - Annotations: Manually labeled using LabelImg
 - Additional documents downloaded from Roboflow (~2,500 images + Labels)
 - croped more then (~19,000 images)
