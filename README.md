@@ -43,17 +43,17 @@ This training and inference approach allowed the model to achieve high precision
 
 ### Built With
 
-YOLOv8 (Ultralytics) – 8.0.x, for checkbox detection
+1. YOLO11s (Ultralytics) – for checkbox detection
 
-Pillow (PIL) – Image processing
+2. Pillow (PIL) – Image processing
 
-NumPy – Array and numerical operations
+3. NumPy – Array and numerical operations
 
-Django – Web framework for the demo app
+4. Django – Web framework for the demo app
 
-Roboflow – Dataset collection and management
+5. Roboflow – Dataset collection and management
 
-Local GPU – For training
+6. Local GPU – For training
 
 
 
