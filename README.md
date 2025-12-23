@@ -21,9 +21,7 @@ This final pipeline enables accurate checkbox detection on full documents while 
 
 ---
 ![output_0_12_line7](https://github.com/user-attachments/assets/c5f58400-bb0a-49a3-bc68-eac9f0cbc1c8)
-
 ### Output
-
 ![output_annotated](https://github.com/user-attachments/assets/65aba2fc-6daf-4983-8728-045bfdd47962)
 
 Labels : YOLO annotations (YOLO format):
@@ -40,9 +38,9 @@ After training, we applied a full-page inference strategy: each document was dyn
 This training and inference approach allowed the model to achieve high precision and recall for checkbox detection on both cropped and full-page documents. 
 
 ![output_49_2](https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278)
+### Output
+![annotated_1766484384_output_49_2](https://github.com/user-attachments/assets/4bdc1d62-c7a3-444a-8613-ab25623d1687)
 
-
-![annotated_1766483892_output_49_2](https://github.com/user-attachments/assets/5ccae317-7ecf-48d3-9f12-d6b90dd14e19)
 
 
 
