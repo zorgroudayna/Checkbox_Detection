@@ -1,0 +1,12 @@
+# Paths to datasets
+train: C:/Users/Rou/Desktop/Checkbox_Detection/data_split/train/images
+val: C:/Users/Rou/Desktop/Checkbox_Detection/data_split/val/images
+test: C:/Users/Rou/Desktop/Checkbox_Detection/data_split/test/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: Checked
+  1: unchecked
