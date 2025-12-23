@@ -1,5 +1,5 @@
 # Checkbox Detection
-**Checkbox Detector Model using YOLOv8**
+**Checkbox Detector Model using YOLOs8**
 
 ---
 
