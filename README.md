@@ -38,10 +38,12 @@ The YOLO11s model was trained for 120 epochs on our combined dataset of cropped 
 After training, we applied a full-page inference strategy: each document was dynamically cropped, predictions were made on each crop, and the results were merged back into the original document using an IoU-based merging method to remove duplicate detections.
 This training and inference approach allowed the model to achieve high precision and recall for checkbox detection on both cropped and full-page documents. 
 
-<img src="https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278" width="600"/>
+<img src="https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278" width="700"/>
 
 ### Output
-![annotated_1766484384_output_49_2](https://github.com/user-attachments/assets/4bdc1d62-c7a3-444a-8613-ab25623d1687)
+
+<img src="https://github.com/user-attachments/assets/4bdc1d62-c7a3-444a-8613-ab25623d1687" width="700"/>
+
 
 ### Built With
 
