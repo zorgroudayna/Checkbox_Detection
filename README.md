@@ -92,7 +92,7 @@ pip install ultralytics
 pip install torch
 pip install ruamel.yaml
 ```
-**3. Dataset **
+**3. Dataset**
 
 - Source documents: Your private collection (~3,000 images)
 - Annotations: Manually labeled using LabelImg
