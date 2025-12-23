@@ -73,7 +73,7 @@ This training and inference approach allowed the model to achieve high precision
 
 **For training and inference**
 
-1. ultralytics – (YOLO11d)
+1. ultralytics – (YOLO11s)
 
 2. torch – 
 
