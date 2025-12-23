@@ -10,7 +10,7 @@ if __name__ == "__main__":
     # Train with optimized parameters
     model.train(
         data="data_split/data.yaml",
-        epochs=100,
+        epochs=120,
         patience=20,
         imgsz=600,
         batch=16,
