@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw
 # -------------------------
 # CONFIG
 # -------------------------
-DOCS_DIR = r"C:\Users\MAJED\Desktop\Checkbox_Detection\AH3"      # Original documents folder
-LABELS_DIR = r"C:\Users\MAJED\Desktop\Checkbox_Detection\lab"   # YOLO labels folder
+DOCS_DIR = r"C:\Users\Rou\Desktop\Checkbox_Detection\AH3"      # Original documents folder
+LABELS_DIR = r"C:\Users\Rou\Desktop\Checkbox_Detection\lab"   # YOLO labels folder
 OUTPUT_IMAGES = "cropped/images"                       # Cropped patches output
 OUTPUT_LABELS = "cropped/labels"                       # Cropped labels output
 VISUAL_DIR = "visualized"                               # Images with rectangles for visualization
