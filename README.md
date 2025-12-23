@@ -22,6 +22,9 @@ This final pipeline enables accurate checkbox detection on full documents while 
 ---
 ![output_0_12_line7](https://github.com/user-attachments/assets/c5f58400-bb0a-49a3-bc68-eac9f0cbc1c8)
 
+Labels : YOLO annotations (YOLO format):
+
+```txt
 0 0.559012 0.811980 0.009987 0.092915
 1 0.635838 0.816152 0.009676 0.086811
 0 0.155771 0.333530 0.010039 0.101843
