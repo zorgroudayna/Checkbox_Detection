@@ -32,3 +32,10 @@ Labels : YOLO annotations (YOLO format):
 ```
 ![output_annotated](https://github.com/user-attachments/assets/65aba2fc-6daf-4983-8728-045bfdd47962)
 
+
+![output_49_2](https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278)
+
+
+![output_annotated2](https://github.com/user-attachments/assets/14ff327a-45eb-4285-82c2-e794ae232072)
+
+
