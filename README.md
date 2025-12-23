@@ -36,6 +36,7 @@ Labels : YOLO annotations (YOLO format):
 ![output_49_2](https://github.com/user-attachments/assets/029c6a60-285b-496b-87db-3b8e5672b278)
 
 
-![output_annotated2](https://github.com/user-attachments/assets/14ff327a-45eb-4285-82c2-e794ae232072)
+![annotated_1766483892_output_49_2](https://github.com/user-attachments/assets/5ccae317-7ecf-48d3-9f12-d6b90dd14e19)
+
 
 
