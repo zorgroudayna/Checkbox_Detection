@@ -55,5 +55,26 @@ This training and inference approach allowed the model to achieve high precision
 
 6. Local GPU – For training
 
+### Prerequisites
+
+**For generating and preprocessing data**
+
+1. opencv-python – 4.7.0
+
+2. matplotlib – 3.7.1
+
+3. numpy – 1.25.2
+
+4. Pillow – 9.5.0 (for image handling)
+
+**For training and inference**
+
+1. ultralytics – (YOLO11d)
+
+2. torch – 
+
+3. ruamel.yaml – for YAML configuration files
+
+
 
 
