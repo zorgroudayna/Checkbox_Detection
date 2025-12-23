@@ -29,6 +29,6 @@ Labels : YOLO annotations (YOLO format):
 1 0.635838 0.816152 0.009676 0.086811
 0 0.155771 0.333530 0.010039 0.101843
 1 0.155614 0.500175 0.010036 0.092637
-
+```
 ![output_annotated](https://github.com/user-attachments/assets/65aba2fc-6daf-4983-8728-045bfdd47962)
 
