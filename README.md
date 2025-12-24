@@ -49,25 +49,23 @@ This training and inference approach allowed the model to achieve high precision
 
 1. YOLO11s (Ultralytics) – for checkbox detection
 2. Pillow (PIL) – Image processing
-3. NumPy – Array and numerical operations
-4. Django – Web framework for the demo app
+3. NumPy – Array and numerical operations  
 5. Roboflow – Dataset collection and management
-6. Local GPU – For training
+6. Local GPU – NVIDIA GeForce RTX 3060
 
 ### Prerequisites
 
 **For generating and preprocessing data**
 
-1. opencv-python – 4.7.0
-2. matplotlib – 3.7.1
-3. numpy – 1.25.2
-4. Pillow – 9.5.0 (for image handling)
+1. opencv-python – 4.12.0
+2. matplotlib – 3.10.7
+3. numpy – 2.2.6
+4. Pillow – 12.0.0 (for image handling)
 
 **For training and inference**
 
-1. ultralytics – (YOLO11s)
-2. torch – 
-3. ruamel.yaml – for YAML configuration files
+1. ultralytics – 8.3.235 (YOLO11s)
+2. torch – 2.5.1+cu121
 
 ### Installation
 **1. Clone the repository**
@@ -84,7 +82,6 @@ pip install numpy
 pip install Pillow
 pip install ultralytics
 pip install torch
-pip install ruamel.yaml
 ```
 **3. Dataset**
 
