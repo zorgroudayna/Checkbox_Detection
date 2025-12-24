@@ -52,6 +52,7 @@ This training and inference approach allowed the model to achieve high precision
 3. NumPy – Array and numerical operations  
 5. Roboflow – Dataset collection and management
 6. Local GPU – NVIDIA GeForce RTX 3060
+7. labelImg – Data Annotation
 
 ### Prerequisites
 
@@ -61,6 +62,8 @@ This training and inference approach allowed the model to achieve high precision
 2. matplotlib – 3.10.7
 3. numpy – 2.2.6
 4. Pillow – 12.0.0 (for image handling)
+5. labelImg – 1.8.6
+6. python - 3.11.9
 
 **For training and inference**
 
