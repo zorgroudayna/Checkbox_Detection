@@ -1,6 +1,10 @@
 # Checkbox Detection
 **Checkbox Detector Model using YOLO11s**
 
+
+<img width="1198" height="253" alt="image" src="https://github.com/user-attachments/assets/8177d35f-b807-4c9d-9661-4ddeb6a4f888" />
+
+
 ---
 
 ### Project Overview
